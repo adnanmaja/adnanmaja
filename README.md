@@ -1,5 +1,5 @@
 ## Hi there 👋
-Iam Rafa, currently learning backend development and data analysis through hands-on projects in Python. I document my progress on GitHub and enjoy building practical tools while exploring topics like machine learning, data visualization, and website developtment. Excited to learn from others in tech!
+I am Rafa, currently learning backend development and data analysis through hands-on projects in Python. I document my progress on GitHub and enjoy building practical tools while exploring topics like machine learning, data visualization, and website developtment. Excited to learn from others in tech!
 
 ---
 

@@ -1,5 +1,5 @@
-# Hiii~
-I am Rafa, currently learning backend development and data analysis through hands-on projects in Python. I document my progress on GitHub and enjoy building practical tools while exploring topics like machine learning, data visualization, and website developtment. Excited to learn from others in tech!
+# Rafa Attamimi Adnana Atmaja
+Currently learning backend development and data analysis through hands-on projects in Python. I document my progress on GitHub and enjoy building practical tools while exploring topics like machine learning, data visualization, and website developtment. Excited to learn from others in tech!
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafaadmaja) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafa-adnan-0329b4321) 
